@@ -1,5 +1,8 @@
 const functions = require("./index.js");
 
+// first commit
+const greet = ()=> "Hello World";
+
 const bolunenler = [
   45,
   63,
@@ -490,6 +493,7 @@ const tekrar = [
   "358.6 sayısı 2 kere tekrar edilmiştir",
   "467.3 sayısı 2 kere tekrar edilmiştir",
 ];
+
 
 // görev 1
 describe("cemberinCevresi görevi", () => {
