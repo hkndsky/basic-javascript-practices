@@ -14,7 +14,7 @@ function kareninAlani(kenaruzunlugu) {
 }
 
 /* (Oto test yok) Yukarıdaki kareninAlani fonksiyonunu kenar uzunluğu = 10 vererek aşağıda çalıştırıp, sonucu konsolda gözlemleyin (console.log)  */
-
+console.log(kareninAlani(10));
 /* GÖREV 1:
 - cemberinCevresi fonksiyonunu kullanarak aşağıdaki yönergeleri uygulayın:
 	1. cemberinCevresi fonksiyonu parametre olarak sadece çemberin yarıçapını alacaktır.
@@ -23,8 +23,9 @@ function kareninAlani(kenaruzunlugu) {
 	4. Hesaplanan çemberin çevresi döndürülecektir.
 */
 
-function cemberinCevresi(/* kodlar buraya */) {
-  /* kodlar buraya */
+
+function cemberinCevresi(yaricap) {
+  
 }
 
 /* (Oto test yok) Yukarıdaki cemberinCevresi fonksiyonunu yarıçap = 5 vererek aşağıda çalıştırıp, sonucu konsolda gözlemleyin (console.log)  */

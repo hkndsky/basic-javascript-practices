@@ -1,15 +1,11 @@
 const functions = require("./index.js");
 
-// first commit
-const greet = ()=> "Hello World";
-
 const bolunenler = [
   45,
   63,
   54,
   78,
   654,
-  500,
   63,
   969,
   45,
